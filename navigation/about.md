@@ -109,9 +109,9 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- I was born here in San Diego, but my parents are from India
+- My family includes my parents, my grandparents and two uncles and two aunts with 3 cousins.
+- These pictures include places I want to visit someday
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
